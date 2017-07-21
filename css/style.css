@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Sevenbiu';
+  src:  url('fonts/Sevenbiu.eot?o2126c');
+  src:  url('fonts/Sevenbiu.eot?o2126c#iefix') format('embedded-opentype'),
+    url('fonts/Sevenbiu.ttf?o2126c') format('truetype'),
+    url('fonts/Sevenbiu.woff?o2126c') format('woff'),
+    url('fonts/Sevenbiu.svg?o2126c#Sevenbiu') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Sevenbiu' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-向左:before {
+  content: "\e900";
+}
+.icon-标签2:before {
+  content: "\e901";
+}
+.icon-加2:before {
+  content: "\e902";
+}
+.icon-加:before {
+  content: "\e903";
+}
+.icon-标签:before {
+  content: "\e904";
+}
+.icon-点赞:before {
+  content: "\e905";
+}
+.icon-发现:before {
+  content: "\e906";
+}
+.icon-关注:before {
+  content: "\e907";
+}
+.icon-举报:before {
+  content: "\e908";
+}
