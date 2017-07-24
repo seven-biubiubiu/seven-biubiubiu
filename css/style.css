@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'Sevenbiu';
-  src:  url('fonts/Sevenbiu.eot?o2126c');
-  src:  url('fonts/Sevenbiu.eot?o2126c#iefix') format('embedded-opentype'),
-    url('fonts/Sevenbiu.ttf?o2126c') format('truetype'),
-    url('fonts/Sevenbiu.woff?o2126c') format('woff'),
-    url('fonts/Sevenbiu.svg?o2126c#Sevenbiu') format('svg');
+  font-family: 'sevenicons';
+  src:  url('fonts/sevenicons.eot?kp26bl');
+  src:  url('fonts/sevenicons.eot?kp26bl#iefix') format('embedded-opentype'),
+    url('fonts/sevenicons.ttf?kp26bl') format('truetype'),
+    url('fonts/sevenicons.woff?kp26bl') format('woff'),
+    url('fonts/sevenicons.svg?kp26bl#sevenicons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="biubiubiu-"], [class*=" biubiubiu-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'Sevenbiu' !important;
+  font-family: 'sevenicons' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -24,30 +24,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-向左:before {
+.biubiubiu-step-2:before {
   content: "\e900";
 }
-.icon-标签2:before {
+.biubiubiu-step-one:before {
   content: "\e901";
 }
-.icon-加2:before {
+.biubiubiu-hidden-password:before {
   content: "\e902";
-}
-.icon-加:before {
-  content: "\e903";
-}
-.icon-标签:before {
-  content: "\e904";
-}
-.icon-点赞:before {
-  content: "\e905";
-}
-.icon-发现:before {
-  content: "\e906";
-}
-.icon-关注:before {
-  content: "\e907";
-}
-.icon-举报:before {
-  content: "\e908";
 }
