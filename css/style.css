@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'sevenicons';
-  src:  url('fonts/sevenicons.eot?kp26bl');
-  src:  url('fonts/sevenicons.eot?kp26bl#iefix') format('embedded-opentype'),
-    url('fonts/sevenicons.ttf?kp26bl') format('truetype'),
-    url('fonts/sevenicons.woff?kp26bl') format('woff'),
-    url('fonts/sevenicons.svg?kp26bl#sevenicons') format('svg');
+  src:  url('fonts/sevenicons.eot?mvs4zp');
+  src:  url('fonts/sevenicons.eot?mvs4zp#iefix') format('embedded-opentype'),
+    url('fonts/sevenicons.ttf?mvs4zp') format('truetype'),
+    url('fonts/sevenicons.woff?mvs4zp') format('woff'),
+    url('fonts/sevenicons.svg?mvs4zp#sevenicons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,68 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.biubiubiu-step-3:before {
+  content: "\e903";
+}
+.biubiubiu-view-password:before {
+  content: "\e904";
+}
+.biubiubiu-join-the-enterprise .path1:before {
+  content: "\e905";
+  color: rgb(243, 218, 19);
+}
+.biubiubiu-join-the-enterprise .path2:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.biubiubiu-join-the-enterprise .path3:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(233, 233, 233);
+}
+.biubiubiu-password:before {
+  content: "\e908";
+}
+.biubiubiu-enterprise-certification .path1:before {
+  content: "\e909";
+  color: rgb(243, 218, 19);
+}
+.biubiubiu-enterprise-certification .path2:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(243, 218, 19);
+}
+.biubiubiu-enterprise-certification .path3:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.biubiubiu-enterprise-certification .path4:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(233, 233, 233);
+}
+.biubiubiu-mobile-phone:before {
+  content: "\e90d";
+}
+.biubiubiu-perfect-resume .path1:before {
+  content: "\e90e";
+  color: rgb(243, 218, 19);
+}
+.biubiubiu-perfect-resume .path2:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.biubiubiu-perfect-resume .path3:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(233, 233, 233);
+}
+.biubiubiu-account:before {
+  content: "\e911";
+}
 .biubiubiu-step-2:before {
   content: "\e900";
 }
