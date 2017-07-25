@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'sevenicons';
-  src:  url('fonts/sevenicons.eot?mvs4zp');
-  src:  url('fonts/sevenicons.eot?mvs4zp#iefix') format('embedded-opentype'),
-    url('fonts/sevenicons.ttf?mvs4zp') format('truetype'),
-    url('fonts/sevenicons.woff?mvs4zp') format('woff'),
-    url('fonts/sevenicons.svg?mvs4zp#sevenicons') format('svg');
+  src:  url('fonts/sevenicons.eot?8i9exk');
+  src:  url('fonts/sevenicons.eot?8i9exk#iefix') format('embedded-opentype'),
+    url('fonts/sevenicons.ttf?8i9exk') format('truetype'),
+    url('fonts/sevenicons.woff?8i9exk') format('woff'),
+    url('fonts/sevenicons.svg?8i9exk#sevenicons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,30 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.biubiubiu-line_work:before {
+  content: "\e912";
+}
+.biubiubiu-line_home:before {
+  content: "\e913";
+}
+.biubiubiu-line_mine:before {
+  content: "\e914";
+}
+.biubiubiu-line_message:before {
+  content: "\e915";
+}
+.biubiubiu-solid_work:before {
+  content: "\e916";
+}
+.biubiubiu-solid_home:before {
+  content: "\e917";
+}
+.biubiubiu-solid_mine:before {
+  content: "\e918";
+}
+.biubiubiu-solid_message:before {
+  content: "\e919";
+}
 .biubiubiu-step-3:before {
   content: "\e903";
 }
