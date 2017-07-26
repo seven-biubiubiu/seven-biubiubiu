@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'sevenicons';
-  src:  url('fonts/sevenicons.eot?jjhbyi');
-  src:  url('fonts/sevenicons.eot?jjhbyi#iefix') format('embedded-opentype'),
-    url('fonts/sevenicons.ttf?jjhbyi') format('truetype'),
-    url('fonts/sevenicons.woff?jjhbyi') format('woff'),
-    url('fonts/sevenicons.svg?jjhbyi#sevenicons') format('svg');
+  font-family: 'Mineicons';
+  src:  url('fonts/Mineicons.eot?laayek');
+  src:  url('fonts/Mineicons.eot?laayek#iefix') format('embedded-opentype'),
+    url('fonts/Mineicons.ttf?laayek') format('truetype'),
+    url('fonts/Mineicons.woff?laayek') format('woff'),
+    url('fonts/Mineicons.svg?laayek#Mineicons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-[class^="biubiu-"], [class*=" biubiu-"] {
+[class^="mine-"], [class*=" mine-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'sevenicons' !important;
+  font-family: 'Mineicons' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -24,98 +24,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.biubiu-line_work:before {
-  content: "\e912";
-}
-.biubiu-line_home:before {
-  content: "\e913";
-}
-.biubiu-line_mine:before {
-  content: "\e914";
-}
-.biubiu-line_message:before {
-  content: "\e915";
-}
-.biubiu-solid_work:before {
-  content: "\e916";
-}
-.biubiu-solid_home:before {
-  content: "\e917";
-}
-.biubiu-solid_mine:before {
-  content: "\e918";
-}
-.biubiu-solid_message:before {
-  content: "\e919";
-}
-.biubiu-step-3:before {
-  content: "\e903";
-}
-.biubiu-view-password:before {
-  content: "\e904";
-}
-.biubiu-join-the-enterprise .path1:before {
-  content: "\e905";
-  color: rgb(243, 218, 19);
-}
-.biubiu-join-the-enterprise .path2:before {
-  content: "\e906";
-  margin-left: -1em;
-  color: rgb(136, 136, 136);
-}
-.biubiu-join-the-enterprise .path3:before {
-  content: "\e907";
-  margin-left: -1em;
-  color: rgb(233, 233, 233);
-}
-.biubiu-password:before {
-  content: "\e908";
-}
-.biubiu-enterprise-certification .path1:before {
-  content: "\e909";
-  color: rgb(243, 218, 19);
-}
-.biubiu-enterprise-certification .path2:before {
-  content: "\e90a";
-  margin-left: -1em;
-  color: rgb(243, 218, 19);
-}
-.biubiu-enterprise-certification .path3:before {
-  content: "\e90b";
-  margin-left: -1em;
-  color: rgb(136, 136, 136);
-}
-.biubiu-enterprise-certification .path4:before {
-  content: "\e90c";
-  margin-left: -1em;
-  color: rgb(233, 233, 233);
-}
-.biubiu-mobile-phone:before {
-  content: "\e90d";
-}
-.biubiu-perfect-resume .path1:before {
-  content: "\e90e";
-  color: rgb(243, 218, 19);
-}
-.biubiu-perfect-resume .path2:before {
-  content: "\e90f";
-  margin-left: -1em;
-  color: rgb(136, 136, 136);
-}
-.biubiu-perfect-resume .path3:before {
-  content: "\e910";
-  margin-left: -1em;
-  color: rgb(233, 233, 233);
-}
-.biubiu-account:before {
-  content: "\e911";
-}
-.biubiu-step-2:before {
+.mine-plus:before {
   content: "\e900";
 }
-.biubiu-step-one:before {
+.mine-cancel:before {
   content: "\e901";
 }
-.biubiu-hidden-password:before {
+.mine-confirm:before {
   content: "\e902";
+}
+.mine-upward:before {
+  content: "\e903";
+}
+.mine-down:before {
+  content: "\e904";
+}
+.mine-right:before {
+  content: "\e905";
+}
+.mine-left:before {
+  content: "\e906";
 }
