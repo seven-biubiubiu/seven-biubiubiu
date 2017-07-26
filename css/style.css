@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'sevenicons';
-  src:  url('fonts/sevenicons.eot?8i9exk');
-  src:  url('fonts/sevenicons.eot?8i9exk#iefix') format('embedded-opentype'),
-    url('fonts/sevenicons.ttf?8i9exk') format('truetype'),
-    url('fonts/sevenicons.woff?8i9exk') format('woff'),
-    url('fonts/sevenicons.svg?8i9exk#sevenicons') format('svg');
+  font-family: 'seven-icons';
+  src:  url('fonts/seven-icons.eot?bxyuh2');
+  src:  url('fonts/seven-icons.eot?bxyuh2#iefix') format('embedded-opentype'),
+    url('fonts/seven-icons.ttf?bxyuh2') format('truetype'),
+    url('fonts/seven-icons.woff?bxyuh2') format('woff'),
+    url('fonts/seven-icons.svg?bxyuh2#seven-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-[class^="biubiubiu-"], [class*=" biubiubiu-"] {
+[class^="biubiubiu-Seven"], [class*=" biubiubiu-Seven"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'sevenicons' !important;
+  font-family: 'seven-icons' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -24,98 +24,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.biubiubiu-line_work:before {
-  content: "\e912";
-}
-.biubiubiu-line_home:before {
-  content: "\e913";
-}
-.biubiubiu-line_mine:before {
-  content: "\e914";
-}
-.biubiubiu-line_message:before {
-  content: "\e915";
-}
-.biubiubiu-solid_work:before {
-  content: "\e916";
-}
-.biubiubiu-solid_home:before {
-  content: "\e917";
-}
-.biubiubiu-solid_mine:before {
-  content: "\e918";
-}
-.biubiubiu-solid_message:before {
-  content: "\e919";
-}
-.biubiubiu-step-3:before {
-  content: "\e903";
-}
-.biubiubiu-view-password:before {
-  content: "\e904";
-}
-.biubiubiu-join-the-enterprise .path1:before {
-  content: "\e905";
-  color: rgb(243, 218, 19);
-}
-.biubiubiu-join-the-enterprise .path2:before {
-  content: "\e906";
-  margin-left: -1em;
-  color: rgb(136, 136, 136);
-}
-.biubiubiu-join-the-enterprise .path3:before {
-  content: "\e907";
-  margin-left: -1em;
-  color: rgb(233, 233, 233);
-}
-.biubiubiu-password:before {
-  content: "\e908";
-}
-.biubiubiu-enterprise-certification .path1:before {
-  content: "\e909";
-  color: rgb(243, 218, 19);
-}
-.biubiubiu-enterprise-certification .path2:before {
-  content: "\e90a";
-  margin-left: -1em;
-  color: rgb(243, 218, 19);
-}
-.biubiubiu-enterprise-certification .path3:before {
-  content: "\e90b";
-  margin-left: -1em;
-  color: rgb(136, 136, 136);
-}
-.biubiubiu-enterprise-certification .path4:before {
-  content: "\e90c";
-  margin-left: -1em;
-  color: rgb(233, 233, 233);
-}
-.biubiubiu-mobile-phone:before {
-  content: "\e90d";
-}
-.biubiubiu-perfect-resume .path1:before {
-  content: "\e90e";
-  color: rgb(243, 218, 19);
-}
-.biubiubiu-perfect-resume .path2:before {
-  content: "\e90f";
-  margin-left: -1em;
-  color: rgb(136, 136, 136);
-}
-.biubiubiu-perfect-resume .path3:before {
-  content: "\e910";
-  margin-left: -1em;
-  color: rgb(233, 233, 233);
-}
-.biubiubiu-account:before {
-  content: "\e911";
-}
-.biubiubiu-step-2:before {
+.biubiubiu-Sevenplus:before {
   content: "\e900";
 }
-.biubiubiu-step-one:before {
+.biubiubiu-Sevencancel:before {
   content: "\e901";
 }
-.biubiubiu-hidden-password:before {
+.biubiubiu-Sevencomfirm:before {
   content: "\e902";
+}
+.biubiubiu-Sevenupward:before {
+  content: "\e903";
+}
+.biubiubiu-Sevendown:before {
+  content: "\e904";
+}
+.biubiubiu-Sevenright:before {
+  content: "\e905";
+}
+.biubiubiu-Sevenleft:before {
+  content: "\e906";
 }
