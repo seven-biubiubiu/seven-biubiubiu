@@ -1,0 +1,22 @@
+{
+  "name": "seven-biubiubiu-icons",
+  "version": "2.0.2",
+  "description": "fenglin@techcopemate.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seven-biubiubiu/seven-biubiubiu-icons.git"
+  },
+  "keywords": [
+    "seven"
+  ],
+  "author": "seven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seven-biubiubiu/seven-biubiubiu-icons/issues"
+  },
+  "homepage": "https://github.com/seven-biubiubiu/seven-biubiubiu-icons#readme"
+}
