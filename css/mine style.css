@@ -1,0 +1,128 @@
+@font-face {
+  font-family: 'Mineicons';
+  src:  url('fonts/Mineicons.eot?llkot2');
+  src:  url('fonts/Mineicons.eot?llkot2#iefix') format('embedded-opentype'),
+    url('fonts/Mineicons.ttf?llkot2') format('truetype'),
+    url('fonts/Mineicons.woff?llkot2') format('woff'),
+    url('fonts/Mineicons.svg?llkot2#Mineicons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="mine-"], [class*=" mine-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Mineicons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mine-mi-consult:before {
+  content: "\e900";
+}
+.mine-mi-share:before {
+  content: "\e901";
+}
+.mine-mi-apply:before {
+  content: "\e902";
+}
+.mine-mi-refresh:before {
+  content: "\e903";
+}
+.mine-mi-letter:before {
+  content: "\e904";
+}
+.mine-mi-edit:before {
+  content: "\e905";
+}
+.mine-mi-delete:before {
+  content: "\e906";
+}
+.mine-mi-hot:before {
+  content: "\e908";
+}
+.mine-mi-complete:before {
+  content: "\e909";
+}
+.mine-mi-explain:before {
+  content: "\e90b";
+}
+.mine-mi-praise:before {
+  content: "\e90c";
+}
+.mine-mi-recommend:before {
+  content: "\e916";
+}
+.mine-mi-time:before {
+  content: "\e917";
+}
+.mine-mi-message:before {
+  content: "\e918";
+}
+.mine-mi-shopping:before {
+  content: "\e919";
+}
+.mine-mi-Qr-code:before {
+  content: "\e91a";
+}
+.mine-mi-store:before {
+  content: "\e91b";
+}
+.mine-mi-like:before {
+  content: "\e91c";
+}
+.mine-mi-mine:before {
+  content: "\e91d";
+}
+.mine-mi-remind:before {
+  content: "\e91e";
+}
+.mine-mi-homepage:before {
+  content: "\e91f";
+}
+.mine-mi-setting:before {
+  content: "\e920";
+}
+.mine-mi-location:before {
+  content: "\e921";
+}
+.mine-mi-tag:before {
+  content: "\e915";
+}
+.mine-sev-report:before {
+  content: "\e907";
+}
+.mine-sev-search:before {
+  content: "\e90a";
+}
+.mine-sev-forward:before {
+  content: "\e90d";
+}
+.mine-sev-plus:before {
+  content: "\e90e";
+}
+.mine-sev-cancel:before {
+  content: "\e90f";
+}
+.mine-sev-sure:before {
+  content: "\e910";
+}
+.mine-sev-on:before {
+  content: "\e911";
+}
+.mine-sev-next:before {
+  content: "\e912";
+}
+.mine-sev-right:before {
+  content: "\e913";
+}
+.mine-sev-left:before {
+  content: "\e914";
+}
