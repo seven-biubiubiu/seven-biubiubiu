@@ -1518,7 +1518,7 @@
   ],
   "height": 1024,
   "metadata": {
-    "name": "ZB-multicolor"
+    "name": "multicolor"
   },
   "preferences": {
     "showGlyphs": true,
@@ -1529,7 +1529,7 @@
     "fontPref": {
       "prefix": "ZB-",
       "metadata": {
-        "fontFamily": "ZB-multicolor",
+        "fontFamily": "multicolor",
         "majorVersion": 1,
         "minorVersion": 0
       },

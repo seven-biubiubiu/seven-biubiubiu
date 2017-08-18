@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'ZB-multicolor';
-  src:  url('fonts/ZB-multicolor.eot?iewu83');
-  src:  url('fonts/ZB-multicolor.eot?iewu83#iefix') format('embedded-opentype'),
-    url('fonts/ZB-multicolor.ttf?iewu83') format('truetype'),
-    url('fonts/ZB-multicolor.woff?iewu83') format('woff'),
-    url('fonts/ZB-multicolor.svg?iewu83#ZB-multicolor') format('svg');
+  font-family: 'multicolor';
+  src:  url('fonts/multicolor.eot?y58j4y');
+  src:  url('fonts/multicolor.eot?y58j4y#iefix') format('embedded-opentype'),
+    url('fonts/multicolor.ttf?y58j4y') format('truetype'),
+    url('fonts/multicolor.woff?y58j4y') format('woff'),
+    url('fonts/multicolor.svg?y58j4y#multicolor') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 [class^="ZB-"], [class*=" ZB-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'ZB-multicolor' !important;
+  font-family: 'multicolor' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
