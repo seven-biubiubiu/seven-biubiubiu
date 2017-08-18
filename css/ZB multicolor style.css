@@ -1,0 +1,310 @@
+@font-face {
+  font-family: 'ZB-multicolor';
+  src:  url('fonts/ZB-multicolor.eot?iewu83');
+  src:  url('fonts/ZB-multicolor.eot?iewu83#iefix') format('embedded-opentype'),
+    url('fonts/ZB-multicolor.ttf?iewu83') format('truetype'),
+    url('fonts/ZB-multicolor.woff?iewu83') format('woff'),
+    url('fonts/ZB-multicolor.svg?iewu83#ZB-multicolor') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ZB-"], [class*=" ZB-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ZB-multicolor' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ZB-buy .path1:before {
+  content: "\e900";
+  color: rgb(243, 218, 19);
+}
+.ZB-buy .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-buy .path3:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(233, 233, 233);
+}
+.ZB-customer-service .path1:before {
+  content: "\e903";
+  color: rgb(243, 218, 19);
+}
+.ZB-customer-service .path2:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-shooting .path1:before {
+  content: "\e905";
+  color: rgb(243, 218, 19);
+}
+.ZB-shooting .path2:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-shops .path1:before {
+  content: "\e907";
+  color: rgb(243, 218, 19);
+}
+.ZB-shops .path2:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-shops .path3:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(233, 233, 233);
+}
+.ZB-wideo .path1:before {
+  content: "\e90a";
+  color: rgb(243, 218, 19);
+}
+.ZB-wideo .path2:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-photo-album .path1:before {
+  content: "\e90c";
+  color: rgb(243, 218, 19);
+}
+.ZB-photo-album .path2:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-message .path1:before {
+  content: "\e90e";
+  color: rgb(243, 218, 19);
+}
+.ZB-message .path2:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-message .path3:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(233, 233, 233);
+}
+.ZB-message-record .path1:before {
+  content: "\e911";
+  color: rgb(243, 218, 19);
+}
+.ZB-message-record .path2:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-housekeeper .path1:before {
+  content: "\e913";
+  color: rgb(243, 218, 19);
+}
+.ZB-housekeeper .path2:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-housekeeper .path3:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(233, 233, 233);
+}
+.ZB-recruit .path1:before {
+  content: "\e916";
+  color: rgb(243, 218, 19);
+}
+.ZB-recruit .path2:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-recruit .path3:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(233, 233, 233);
+}
+.ZB-home_procurement .path1:before {
+  content: "\e919";
+  color: rgb(238, 238, 238);
+}
+.ZB-home_procurement .path2:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.ZB-home_industrial-design .path1:before {
+  content: "\e91b";
+  color: rgb(238, 238, 238);
+}
+.ZB-home_industrial-design .path2:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.ZB-home_processed .path1:before {
+  content: "\e91d";
+  color: rgb(238, 238, 238);
+}
+.ZB-home_processed .path2:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.ZB-home_financial-service .path1:before {
+  content: "\e91f";
+  color: rgb(238, 238, 238);
+}
+.ZB-home_financial-service .path2:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.ZB-home_hardware-and-mechanical .path1:before {
+  content: "\e921";
+  color: rgb(238, 238, 238);
+}
+.ZB-home_hardware-and-mechanical .path2:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.ZB-home_looking-for-a-job .path1:before {
+  content: "\e923";
+  color: rgb(238, 238, 238);
+}
+.ZB-home_looking-for-a-job .path2:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(51, 51, 51);
+}
+.ZB-purchasing .path1:before {
+  content: "\e925";
+  color: rgb(243, 218, 19);
+}
+.ZB-purchasing .path2:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-bussiness-contact .path1:before {
+  content: "\e927";
+  color: rgb(243, 218, 19);
+}
+.ZB-bussiness-contact .path2:before {
+  content: "\e928";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-enterprise-management .path1:before {
+  content: "\e929";
+  color: rgb(243, 218, 19);
+}
+.ZB-enterprise-management .path2:before {
+  content: "\e92a";
+  margin-left: -1em;
+  color: rgb(243, 218, 19);
+}
+.ZB-enterprise-management .path3:before {
+  content: "\e92b";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-recruitment-management .path1:before {
+  content: "\e92c";
+  color: rgb(243, 218, 19);
+}
+.ZB-recruitment-management .path2:before {
+  content: "\e92d";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-shop-management .path1:before {
+  content: "\e92e";
+  color: rgb(243, 218, 19);
+}
+.ZB-shop-management .path2:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-approval-administration .path1:before {
+  content: "\e930";
+  color: rgb(243, 218, 19);
+}
+.ZB-approval-administration .path2:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-payment-management .path1:before {
+  content: "\e932";
+  color: rgb(243, 218, 19);
+}
+.ZB-payment-management .path2:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-join-the-enterprise .path1:before {
+  content: "\e934";
+  color: rgb(243, 218, 19);
+}
+.ZB-join-the-enterprise .path2:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-join-the-enterprise .path3:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(233, 233, 233);
+}
+.ZB-enterprise-certification .path1:before {
+  content: "\e937";
+  color: rgb(243, 218, 19);
+}
+.ZB-enterprise-certification .path2:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(243, 218, 19);
+}
+.ZB-enterprise-certification .path3:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-enterprise-certification .path4:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(233, 233, 233);
+}
+.ZB-perfect-resume .path1:before {
+  content: "\e93b";
+  color: rgb(243, 218, 19);
+}
+.ZB-perfect-resume .path2:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(136, 136, 136);
+}
+.ZB-perfect-resume .path3:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(233, 233, 233);
+}
